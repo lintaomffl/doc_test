@@ -1,0 +1,3 @@
+# SpringBoot之Aop
+
+参考文章一：[https://juejin.im/post/6844903766035005453](https://juejin.im/post/6844903766035005453)<br />以上文章结构上比较完整地介绍了Aop的一些术语一级使用概念；<br />参考文章二：[https://www.codenong.com/cs105182898/](https://www.codenong.com/cs105182898/)<br />以上文章不够系统，但是以较多的代码与例子介绍了如何Aop的一些简单使用，以及如何利匹配方法，用Aop获取方法的出入参；<br />参考文章三：[https://www.cnblogs.com/lcngu/p/6593190.html](https://www.cnblogs.com/lcngu/p/6593190.html)<br />以上文章直接举例了一个Aop记录操作日志的例子<br />参考文章四：[https://developer.ibm.com/zh/technologies/spring/articles/j-spring-boot-aop-web-log-processing-and-distributed-locking/#](https://developer.ibm.com/zh/technologies/spring/articles/j-spring-boot-aop-web-log-processing-and-distributed-locking/#)<br />以上文章较为详细地介绍了AOP
